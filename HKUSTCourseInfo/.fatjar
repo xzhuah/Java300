@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Nov 25 12:02:39 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=HKUSTCourseInfo_fat.jar
+manifest.mergeall=true
+manifest.mainclass=com.hkust.main.MainWindow
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
